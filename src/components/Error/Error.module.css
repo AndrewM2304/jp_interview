@@ -1,0 +1,10 @@
+.error {
+  border: 2px dotted #b80606;
+  padding: 15px;
+  background: color-mix(in srgb, #b80606 10%, #fff 90%);
+}
+
+.error h1 {
+  font-size: 16px;
+  margin: 0px;
+}
